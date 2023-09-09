@@ -1,2 +1,2 @@
 # my-terraform-first-repo
-My awesome codebase in terraform
+My awesome codebase in terraform manual
